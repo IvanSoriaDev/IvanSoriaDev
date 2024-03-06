@@ -4,7 +4,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ivansoriadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ivansoriadev" height="30" width="40" /></a>
-<a href="https://twitter.com/ivansoriadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivansoriadev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ivan-soria-0001521b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivan-soria-0001521b8/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ivansoria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ivansoria" height="30" width="40" /></a>
 </p>
